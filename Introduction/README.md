@@ -8,7 +8,6 @@ In simple words, cloud computing allows applications and data to run on online s
 
 ⭐ Key Features of Cloud Computing
 
-<img width="1280" height="752" alt="image" src="https://github.com/user-attachments/assets/d7d27eed-8ac9-4286-b58e-680ebfb66371"  <img width="1242" height="813" alt="image" src="https://github.com/user-attachments/assets/24d7b205-a4c3-4b2f-92fb-2a5a431d1e0a" />
-/> 
+<img width="1280" height="752" alt="image" src="https://github.com/user-attachments/assets/d7d27eed-8ac9-4286-b58e-680ebfb66371" /> <img width="1242" height="813" alt="image" src="https://github.com/user-attachments/assets/24d7b205-a4c3-4b2f-92fb-2a5a431d1e0a" />
 
 
