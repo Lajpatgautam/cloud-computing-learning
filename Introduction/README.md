@@ -123,7 +123,7 @@ Customer → Data, user access, configurations, and applications
 
 # 🌍 Cloud Deployment Models
 
-<img width="693" height="864" alt="image" src="https://github.com/user-attachments/assets/4ef61724-2257-4bed-b5de-ac9bc44368d6" /> <img width="1446" height="729" alt="image" src="https://github.com/user-attachments/assets/06366659-d33e-41e1-81aa-041ef68bb6b8" />
+<img width="693" height="864" alt="image" src="https://github.com/user-attachments/assets/4ef61724-2257-4bed-b5de-ac9bc44368d6" /> 
 
 ## Private Cloud
 
