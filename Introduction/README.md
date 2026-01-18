@@ -166,8 +166,8 @@ Storage
 Databases
 
 AI and ML services
+<img width="989" height="692" alt="image" src="https://github.com/user-attachments/assets/8bf92d60-92cf-4900-afc0-5f670d03a793" />
 
-<img width="414" height="331" alt="image" src="https://github.com/user-attachments/assets/c6aecc97-2983-46c0-8832-fbd0d1b94b08" /> 
 
 ## 📈 Scaling in Cloud Computing
 # Vertical Scaling
